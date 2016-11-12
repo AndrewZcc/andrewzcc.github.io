@@ -12,7 +12,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Self-Driven and Freedom-Pursuing.
 baseurl: "" # the subpath of your site, e.g. /blog
 lang: "en"
-url: "http://andrewzcc.github.io"
+url: "https://andrewzcc.github.io"
 github_username:  AndrewZcc
 disqus_username:
 
